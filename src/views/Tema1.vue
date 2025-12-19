@@ -51,7 +51,7 @@
         #t_1_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 1.2 Enfoque participativo en el acompañamiento rural
 
-        p.mb-5 Históricamente, la extensión rural se ha entendido como una práctica de transferencia técnica, donde el conocimiento se entrega desde fuera y las comunidades lo reciben pasivamente. Esta lógica vertical, criticada por Paulo Freire en Extensión o comunicación, reproduce relaciones de dependencia y niega la capacidad creadora de las familias campesinas (Freire, 1984).
+        p.mb-5 Históricamente, la extensión rural se ha entendido como una práctica de transferencia técnica, donde el conocimiento se entrega desde fuera y las comunidades lo reciben pasivamente. Esta lógica vertical, criticada por Paulo Freire en extensión o comunicación, reproduce relaciones de dependencia y niega la capacidad creadora de las familias campesinas (Freire, 1984).
 
         .row.mb-5
           .col-lg-5.order-lg-2.mb-3.mb-lg-0

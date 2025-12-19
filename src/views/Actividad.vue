@@ -152,26 +152,11 @@ export default {
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: 'Verdadero.', esCorrecta: false },
-            { id: 'b', texto: 'Falso.', esCorrecta: true },
-          ],
-          mensaje_correcto:
-            'Muy bien, el mapa futuro sí proyecta cambios agroecológicos.',
-          mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
-        },
-        {
-          id: 10,
-          texto:
-            'El mapa futuro del sistema predial proyecta los cambios deseados en el marco de la transición agroecológica.',
-          imagen: require('@/assets/actividad/imagen2.png'),
-          barajarRespuestas: true,
-          opciones: [
             { id: 'a', texto: 'Verdadero.', esCorrecta: true },
             { id: 'b', texto: 'Falso.', esCorrecta: false },
           ],
           mensaje_correcto:
-            'Excelente, el mapa futuro es clave en la planificación territorial.',
+            'Muy bien, el mapa futuro sí proyecta cambios agroecológicos.',
           mensaje_incorrecto:
             'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },

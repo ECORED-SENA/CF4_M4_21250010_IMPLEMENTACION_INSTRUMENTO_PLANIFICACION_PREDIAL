@@ -122,7 +122,7 @@
                       p.mb-0 Talleres de formulación
                     li.mb-0.d-flex
                       i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
-                      p.mb-0 Sustitución progresiva de insumos externose
+                      p.mb-0 Sustitución progresiva de insumos externos
                     li.mb-0.d-flex
                       i.fa-solid.fa-arrow-alt-circle-right.bg-color-8
                       p.mb-0 Validación de recetas locales
@@ -518,7 +518,7 @@
               figure
                 img(src='@/assets/curso/tema3/24.svg', alt='Texto que describa la imagen')
           h5.text-center Aporte familiar
-          p.text-center Materiales locales (ej. madera o piedras disponibles), mano de obra directa de la familia 
+          p.text-center Materiales locales (ej. madera o piedras disponibles), mano de obra directa de la familia. 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0(data-aos="fade-up")
         .tarjeta--boton.bg-color-1.p-4.h-100
           .row.justify-content-center.mb-3
@@ -526,7 +526,7 @@
               figure
                 img(src='@/assets/curso/tema3/25.svg', alt='Texto que describa la imagen')
           h5.text-center Aporte comunitario
-          p.text-center Trabajo colectivo mediante mingas, uso de herramientas compartidas y apoyo mutuo   
+          p.text-center Trabajo colectivo mediante mingas, uso de herramientas compartidas y apoyo mutuo.  
       .col-sm-6.col-lg-4.mb-4.mb-sm-0(data-aos="fade-down")
         .tarjeta--boton.bg-color-1.p-4.h-100
           .row.justify-content-center.mb-3
@@ -534,7 +534,7 @@
               figure
                 img(src='@/assets/curso/tema3/26.svg', alt='Texto que describa la imagen')
           h5.text-center Gestión institucional
-          p.text-center Apoyo técnico y logístico a través del programa de extensión agropecuaria y del semillero, incluyendo facilitador especializado
+          p.text-center Apoyo técnico y logístico a través del programa de extensión agropecuaria y del semillero, incluyendo facilitador especializado.
     
     p.mb-5 Este ejemplo ilustra cómo estructurar un presupuesto agroecológico desde una perspectiva participativa, argumentada y orientada a la acción. La claridad financiera fortalece la gestión colectiva, facilita el acceso a apoyos institucionales y promueve la sostenibilidad de las iniciativas comunitarias.
 

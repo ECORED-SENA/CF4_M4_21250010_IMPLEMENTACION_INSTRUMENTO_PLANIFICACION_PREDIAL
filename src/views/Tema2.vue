@@ -197,13 +197,13 @@
             p Clasifica cada actividad según su posibilidad de ejecución inmediata.
             p
               span.bg-color-21 Verde:
-              |  puede hacerse ya
+              |  puede hacerse ya.
             p
               span.bg-color-22 Amarillo:
-              |  requiere ajustes o apoyo
+              |  requiere ajustes o apoyo.
             p
               span.bg-color-23 Rojo:
-              |  no viable en el corto plazo
+              |  no viable en el corto plazo.
           .div(titulo="Mapa de puntos críticos")
             p Ubica en el espacio los problemas prioritarios del predio, como zonas erosionadas, sectores sin cobertura vegetal o áreas con contaminación. Esta representación facilita orientar decisiones de intervención territorial.
           .div(titulo="Línea de tiempo agroecológica")
@@ -248,7 +248,7 @@
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
-          span Priorización de actividades para la transición agroecológicaa
+          span Priorización de actividades para la transición agroecológica
         .tabla-a.color-acento-botones.mb-5.tab
           table
             thead
@@ -277,7 +277,14 @@
                 td Recuperación de semillas
                 td Alto valor cultural, pero requiere redes y articulación externa
                 td Media
+    
+    p.mb-5 A continuación, se presenta un video que explica cómo, desde la Casa Comunitaria de Semillas Criollas de Astrual, se cosechan y seleccionan las semillas a través de un proceso comunitario y cuidadoso 
 
+    .bg-full-width.bg-color-9
+      .px-4.px-md-5
+        figure.mb-5
+          .video.mb-2
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/x7NUAHTP8iI?si=g3j5_aSi6R52MYQG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -365,7 +372,7 @@
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/componentes/4.png")
-        h3.titulo-con-imagen__texto ¿Cómo estimar los costos y recursos necesarios
+        h3.titulo-con-imagen__texto ¿Cómo estimar los costos y recursos necesarios?
     
     p.mb-5 Una vez que las actividades han sido secuenciadas, es indispensable estimar los costos asociados y definir fuentes de apoyo. Las siguientes herramientas permiten realizar este ejercicio de manera participativa y contextualizada:
 
